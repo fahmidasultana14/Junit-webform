@@ -13,7 +13,7 @@ https://www.digitalunite.com/practice-webform-learners
 - jdk
 
 ## How To Run:
-- Clone his project
+- Clone this project
 - Open Terminal
 - Give this following command ```gradle clean test```
 
