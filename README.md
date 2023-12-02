@@ -1,7 +1,7 @@
 # Junit-webform
 
 ## About This Project:
-### This is a Selenium Junit project which automates the following webform
+### This is a Junit project which automates the following webform
 https://www.digitalunite.com/practice-webform-learners
 
 ## Tools and Technology used:
